@@ -1,2 +1,2 @@
 # AICW_MICROSOFT_INTERNSHIP
-Phonebook management system implemented in Python as a learning project to practice CRUD operations and data handling.
+Internship projects and learning tasks completed as part of the AICW–Microsoft Internship program.
